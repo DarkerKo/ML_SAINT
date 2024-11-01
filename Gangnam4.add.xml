@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-09-10 11:40:11 by Eclipse SUMO netedit Version 1.20.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- StoppingPlaces -->
+    <chargingStation id="cs_0" lane="417627646#0_0" startPos="116.95" endPos="126.95"/>
+    <chargingStation id="cs_1" lane="-417627646#0_0" startPos="187.49" endPos="197.49"/>
+    <chargingStation id="cs_10" lane="-417723814_0" startPos="147.82" endPos="157.82"/>
+    <chargingStation id="cs_11" lane="417723814_0" startPos="152.74" endPos="162.74"/>
+    <chargingStation id="cs_12" lane="-525738547#2_0" startPos="102.01" endPos="112.01"/>
+    <chargingStation id="cs_13" lane="525738547#3_0" startPos="52.89" endPos="62.89"/>
+    <chargingStation id="cs_14" lane="-72465260#0_0" startPos="33.85" endPos="43.85"/>
+    <chargingStation id="cs_15" lane="218448824#28_0" startPos="73.09" endPos="83.09"/>
+    <chargingStation id="cs_16" lane="908696520#9_0" startPos="157.48" endPos="167.48"/>
+    <chargingStation id="cs_17" lane="919983793#1_1" startPos="251.65" endPos="261.65"/>
+    <chargingStation id="cs_18" lane="919983795#3_0" startPos="28.79" endPos="38.79"/>
+    <chargingStation id="cs_19" lane="921219577#3_1" startPos="30.85" endPos="40.85"/>
+    <chargingStation id="cs_2" lane="-375138534_0" startPos="100.36" endPos="110.36"/>
+    <chargingStation id="cs_20" lane="921219577#2_0" startPos="152.86" endPos="162.86"/>
+    <chargingStation id="cs_21" lane="210328490#3_0" startPos="48.49" endPos="58.49"/>
+    <chargingStation id="cs_22" lane="-210328490#3_0" startPos="106.13" endPos="116.13"/>
+    <chargingStation id="cs_23" lane="443035106#1_0" startPos="70.60" endPos="80.60"/>
+    <chargingStation id="cs_24" lane="46618900#0_0" startPos="226.47" endPos="236.47"/>
+    <chargingStation id="cs_25" lane="46717717#2_1" startPos="78.11" endPos="88.11"/>
+    <chargingStation id="cs_26" lane="46717717#2_0" startPos="34.17" endPos="44.17"/>
+    <chargingStation id="cs_27" lane="218906059#2_0" startPos="35.53" endPos="45.53"/>
+    <chargingStation id="cs_28" lane="-218906059#1_0" startPos="7.07" endPos="17.07"/>
+    <chargingStation id="cs_29" lane="219835824#3_0" startPos="33.27" endPos="43.27"/>
+    <chargingStation id="cs_3" lane="375138534_0" startPos="124.11" endPos="134.11"/>
+    <chargingStation id="cs_30" lane="219835827#7_0" startPos="116.94" endPos="126.94"/>
+    <chargingStation id="cs_31" lane="-46653291#0_0" startPos="14.39" endPos="24.39"/>
+    <chargingStation id="cs_32" lane="46696336#2_0" startPos="130.85" endPos="140.85"/>
+    <chargingStation id="cs_33" lane="-46696332#1_0" startPos="53.15" endPos="63.15"/>
+    <chargingStation id="cs_34" lane="219076293#4_0" startPos="127.48" endPos="137.48"/>
+    <chargingStation id="cs_35" lane="375138546#2_0" startPos="38.05" endPos="48.05"/>
+    <chargingStation id="cs_36" lane="218723443#4_0" startPos="92.84" endPos="102.84"/>
+    <chargingStation id="cs_37" lane="988283553#5_0" startPos="56.47" endPos="66.47"/>
+    <chargingStation id="cs_38" lane="-194455694#0_0" startPos="61.17" endPos="71.17"/>
+    <chargingStation id="cs_39" lane="194455694#0_0" startPos="40.22" endPos="50.22"/>
+    <chargingStation id="cs_4" lane="-166607608_0" startPos="139.69" endPos="149.69"/>
+    <chargingStation id="cs_40" lane="46717713#4_0" startPos="22.05" endPos="32.05"/>
+    <chargingStation id="cs_41" lane="-73656355_0" startPos="54.92" endPos="64.92"/>
+    <chargingStation id="cs_42" lane="-46717713#3_0" startPos="43.32" endPos="53.32"/>
+    <chargingStation id="cs_43" lane="73656355_0" startPos="13.90" endPos="23.90"/>
+    <chargingStation id="cs_44" lane="-417671895#1_0" startPos="70.98" endPos="80.98"/>
+    <chargingStation id="cs_45" lane="417671895#1_0" startPos="90.91" endPos="100.91"/>
+    <chargingStation id="cs_46" lane="219076292#6_0" startPos="57.72" endPos="67.72"/>
+    <chargingStation id="cs_47" lane="218969109#10_0" startPos="47.35" endPos="57.35"/>
+    <chargingStation id="cs_48" lane="417646282#0_0" startPos="25.47" endPos="35.47"/>
+    <chargingStation id="cs_49" lane="-417646282#0_0" startPos="63.79" endPos="73.79"/>
+    <chargingStation id="cs_5" lane="417434594_0" startPos="82.63" endPos="92.63"/>
+    <chargingStation id="cs_50" lane="-522435822#2_0" startPos="92.32" endPos="102.32"/>
+    <chargingStation id="cs_51" lane="522435822#2_0" startPos="85.87" endPos="95.87"/>
+    <chargingStation id="cs_6" lane="218964977#3_0" startPos="108.28" endPos="118.28"/>
+    <chargingStation id="cs_7" lane="522490642#1_0" startPos="115.27" endPos="125.27"/>
+    <chargingStation id="cs_8" lane="117793348#0_0" startPos="171.99" endPos="181.99"/>
+    <chargingStation id="cs_9" lane="-117793348#1_0" startPos="93.25" endPos="103.25"/>
+</additional>
